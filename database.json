@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "ProjectId": 2,
+      "ProjectName": "Project2",
+      "DateOfStart": "29-07-2012",
+      "TeamSize": "10"
+    },
+    {
+      "ProjectId": "5",
+      "ProjectName": "project78",
+      "DateOfStart": "11-20-2020",
+      "TeamSize": "13",
+      "id": 5
+    },
+    {
+      "ProjectId": "12",
+      "ProjectName": "project40",
+      "DateOfStart": "11-20-2020",
+      "TeamSize": "80",
+      "id": 6
+    },
+    {
+      "ProjectId": "30",
+      "ProjectName": "MVC",
+      "DateOfStart": "11-20-2020",
+      "TeamSize": "120",
+      "id": 7
+    },
+    {
+      "ProjectId": "123",
+      "ProjectName": "Mars",
+      "DateOfStart": "11-20-2020",
+      "TeamSize": "337",
+      "id": 8
+    }
+  ]
+}
